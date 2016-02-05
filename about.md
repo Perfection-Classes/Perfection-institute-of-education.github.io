@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Pranjal Kulshresth Oficially called as ****!
+Pranjal Kulshresth A.K.A **zoopss**!
 
 ### More Information
 
