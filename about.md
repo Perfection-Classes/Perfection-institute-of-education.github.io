@@ -12,4 +12,4 @@ I am a crazy animator and also quite an amateur programmer .
 
 ### Contact me
 
-![Contacts](http://zoopss.github.io/contact)
+[Contacts](http://zoopss.github.io/contact)
