@@ -1,6 +1,6 @@
-**This is just a Jekyll theme forked by my buddy [Harsh](msfjarvis.me) for use as my blog**.
+**This is just a Jekyll theme forked by my buddy [Harsh](msfjarvis.me) to help me for my blog**.
 
-But **"All the the things belongs to me"**
+and  **" I thanks for his effort!"**
 My contacts :
 
 [Facebook](https://www.facebook.com/profile.php?id=100011348551404)
