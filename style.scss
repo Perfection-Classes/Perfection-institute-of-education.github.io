@@ -18,9 +18,9 @@ html {
 }
 
 body {
-	background: $material-dark;
+	background: $material-dark-bg;
   font: 18px/1.4 $helvetica;
-  color: $white;
+  color: $material-dark-fg;
 }
 
 .container {
