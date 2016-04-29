@@ -3,10 +3,10 @@
 #
 
 # Name of your site (displayed in the header)
-name: ZOOPSS
+name: Perfection Institute of Education
 
 # Short bio or description (displayed in the header)
-description: Cool animator and Programmer
+description: Coaching center and home tutions 
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars0.githubusercontent.com/u/13982036?v=3&s=460
@@ -18,23 +18,23 @@ avatar: https://avatars0.githubusercontent.com/u/13982036?v=3&s=460
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble: 
-  email: zoopsspk15@gmail.com
+  email: perfectioninstituteofeducation@gmail.com
   facebook: 
   flickr:
-  github: zoopss
+  github: perfection-classes
   instagram: 
   linkedin:
   pinterest:
   rss: feed.xml
   twitter: 
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: channel/UCWBDeX8Lmi35mbyIiMN1WwQ
-  googleplus: u/0/108023656759850062032
+  youtube: 
+  googleplus:
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
-disqus: zoopss
+disqus: 
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics: UA-73374834-1
