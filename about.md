@@ -4,12 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Pranjal Kulshresth A.K.A **zoopss**!
+**Perfection Institute of Education** By: ***Gulshan Kumar***
 
 ### More Information
 
-I am a crazy animator and also quite an amateur programmer .
+Here we only link Education and a student . I personally teach them and for more subjects I have apointed good teachers .Here we take classes till XI-XII Science and rest all classes below 11th .
 
-### Contact me
-
-[Contacts](http://zoopss.github.io/contact)
