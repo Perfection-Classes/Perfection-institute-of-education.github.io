@@ -6,10 +6,9 @@ permalink: /contact/
 
 I'm quite open to conversation, so here's a compilation of ways to contact me.
 
-My Phone Number : +917531083763
+My Phone Number : +919718617743, +91 9990333712
 
-My Google Plus Profile : [Here](https://plus.google.com/u/0/108023656759850062032)
 
-My E-Mail ID : [zoopsspk15@gmail.com](mailto:zoopsspk15@gmail.com)
+My E-Mail ID : [perfectioninstituteofeducation@gmail.com](mailto:perfectioninstituteofeducation@gmail.com)
 
-My Phone no. **7531083763 , 9013785822**
+
