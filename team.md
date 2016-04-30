@@ -1,7 +1,7 @@
 ---
 layout: page
 title: My Team
-permalink: /Teachers/
+permalink: /team/
 ---
 
 Here I have apointed good teachers for science .
